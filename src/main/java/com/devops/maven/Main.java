@@ -8,7 +8,7 @@ public class Main
 {
     public static void main( String[] args )
     {
-        int num1=2,num2=5;
+        int num1=2,num2=3;
         System.out.println( num1+"+"+num2+"="+sum(num1,num2) );
     }
 
